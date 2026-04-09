@@ -69,7 +69,7 @@ The workflow requires the following repository permissions:
 ### Runner
 
 *   Executes on a **Linux x64 runner**
-*   (`self-hosted` in the current configuration)
+*   (`self-hosted` can also be used)
 
 ### Timeout
 
