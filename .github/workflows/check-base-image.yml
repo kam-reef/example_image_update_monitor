@@ -3,7 +3,7 @@ name: Check Base Image Updates
 
 on:
   schedule:
-    - cron: '0 13 * * 1-5' # Weekdays at 13:00 UTC, 0800 EST
+    #- cron: '0 13 * * 1-5' # Weekdays at 13:00 UTC, 0800 EST
   workflow_dispatch:
     inputs:
       force_update:
